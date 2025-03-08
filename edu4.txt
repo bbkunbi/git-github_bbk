@@ -1,1 +1,2 @@
-First branchfor git-Github learning 
+First branchfor git-Github learning --
+Modified in first branch after git merge 
